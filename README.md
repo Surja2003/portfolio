@@ -2,7 +2,7 @@
 
 Personal portfolio website built with **React + TypeScript + Vite + Tailwind CSS**.
 
-- **Live Site:** (add your deployed URL here)
+- **Live Site:** https://portfolio-psi-virid-82.vercel.app/
 - **GitHub:** https://github.com/Surja2003
 - **LinkedIn:** https://www.linkedin.com/in/nespendra-das-939577338
 
