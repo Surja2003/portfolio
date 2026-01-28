@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "./styles/globals.css";
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better anchor scrolling with sticky nav */
+section[id] {
+  scroll-margin-top: 96px;
+}
+
+/* Subtle text selection */
+::selection {
+  background: color-mix(in oklab, oklch(0.627 0.265 303.9) 35%, transparent);
+}
