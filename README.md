@@ -1,73 +1,74 @@
-# React + TypeScript + Vite
+# Nespendra Das — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built with **React + TypeScript + Vite + Tailwind CSS**.
 
-Currently, two official plugins are available:
+- **Live Site:** (add your deployed URL here)
+- **GitHub:** https://github.com/Surja2003
+- **LinkedIn:** https://www.linkedin.com/in/nespendra-das-939577338
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I’m a Computer Science Engineering student specializing in **Artificial Intelligence & Data Science**, passionate about building intelligent systems that solve real-world problems. I enjoy transforming raw data into meaningful insights and developing AI-powered applications that improve efficiency and decision-making.
 
-## Expanding the ESLint configuration
+My interests lie in **machine learning, data analytics, and full-stack development**, where I combine technical skills with creative problem-solving. I have hands-on experience with **Python, SQL, React**, and modern AI tools, and I continuously explore new technologies to stay ahead in the rapidly evolving tech landscape.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+My goal is to work on impactful **AI-driven solutions** that bridge the gap between data and innovation.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## What’s Inside
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+- Home page with sections: **About, Projects, Academic Projects, Skills, Experience, Contact**
+- Dedicated project pages: `/projects/:slug`
+- SEO basics + sitemap/robots/manifest in `public/`
+- Clean, responsive UI (mobile + desktop)
+
+---
+
+## Tech Stack
+
+- **Frontend:** React 18, TypeScript
+- **Build:** Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router
+- **UI/Icons:** lucide-react, Radix Slot
+- **Animation:** Framer Motion
+
+---
+
+## Featured Projects
+
+Some highlights from the portfolio (code + live demos are linked in the site):
+
+- Summarify.ai
+- Investment Calculator
+- Temple Crowd Management
+- Mahamaya Enterprise
+- SpeedTest
+
+---
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Build for production:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm run build
+npm run preview
 ```
+
+---
+
+## Contact
+
+- **Email:** dasnespendra@gmail.com
+- **Location:** India
+- Open to **internships** and **entry-level** roles
+
