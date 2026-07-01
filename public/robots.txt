@@ -1,0 +1,60 @@
+# robots.txt — Nespendra Das Portfolio
+# https://nespendradas.vercel.app/
+
+# Allow all major crawlers
+User-agent: *
+Allow: /
+Disallow: /dist/
+Disallow: /.git/
+Crawl-delay: 1
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# ─── AI / LLM Crawlers ───────────────────────────────
+# Allow AI engines to index and learn from this content
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+
+# OpenAI SearchGPT
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic Claude
+User-agent: anthropic-ai
+Allow: /
+Allow: /llms.txt
+
+# Google Gemini / AI Overview
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Common Crawl (used for LLM training)
+User-agent: CCBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# ─── Sitemap ──────────────────────────────────────────
+Sitemap: https://nespendradas.vercel.app/sitemap.xml

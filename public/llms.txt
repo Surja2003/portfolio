@@ -1,0 +1,121 @@
+# Nespendra Das — Full-Stack Developer & Data Analyst
+
+This file provides a structured, LLM-friendly summary of Nespendra Das's professional background, skills, experiences, and projects for artificial intelligence engines, crawlers, and search agents (e.g. ChatGPT, Perplexity, Claude, Gemini).
+
+## About Nespendra Das
+Nespendra is a Full-Stack Developer, Freelancer, and Data Analyst based in Purba Bardhaman, West Bengal, India. He runs an active freelance development practice while pursuing his undergraduate studies.
+
+- **Current Location:** Purba Bardhaman, West Bengal, India
+- **Availability:** Open for remote freelance contracts and collaborations worldwide.
+- **Primary Contact:** [dasnespendra@gmail.com](mailto:dasnespendra@gmail.com)
+- **WhatsApp Direct:** [https://wa.me/917550914002](https://wa.me/917550914002)
+- **GitHub:** [https://github.com/Surja2003/](https://github.com/Surja2003/)
+- **LinkedIn:** [https://www.linkedin.com/in/nespendra-das-939577338/](https://www.linkedin.com/in/nespendra-das-939577338/)
+- **Portfolio Website:** [https://nespendradas.vercel.app/](https://nespendradas.vercel.app/)
+
+## Education
+- **Institution:** Sikkim Manipal Institute of Technology (SMIT)
+- **Degree:** B.Tech in Computer Science & Engineering (Artificial Intelligence and Data Science)
+- **Duration:** 2024 – 2028
+- **Location:** Sikkim, India
+
+## Key Capabilities & Stats
+- **Client Projects Shipped:** 10+ custom production web and mobile products for clients in India and the UAE.
+- **Reporting Efficiency:** 40% reduction in manual reporting time achieved during analytics internships.
+- **Languages Spoken:** English (Professional), Hindi (Native), Bengali (Native).
+
+## Skills & Technologies
+
+### Programming Languages
+- Python, SQL (PostgreSQL, MySQL, Advanced Query Optimization), JavaScript (ES6+), TypeScript.
+
+### Data Science, Machine Learning & AI
+- Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, OpenCV (Computer Vision), Exploratory Data Analysis (EDA), Natural Language Processing (NLP), Statistical Modeling.
+
+### Web & Mobile Development Tools
+- React.js, React Native, Node.js, FastAPI, Flask, Docker, Tailwind CSS, Vite, Framer Motion, Git, GitHub, Vercel, Firebase.
+
+## Professional Experience
+
+### Freelance Full-Stack Developer
+**Independent / Self-employed** | *2024 – Present*
+- Shipped 10+ production websites and applications for local and international clients (restaurants, hotels, auto dealerships).
+- Designed mobile-first, responsive, and SEO-optimized web interfaces integrated with clean backends.
+- Managed the end-to-end product delivery pipeline: UI/UX alignment, development, deployment, and hosting administration.
+
+### Data Analyst Intern
+**CodeAlpha** | *01/2026 – Present* (Remote)
+- Wrote 20+ optimized SQL queries on datasets exceeding 100K+ rows, achieving a 40% reduction in manual reporting cycles.
+- Formulated weekly trend analysis reports utilized by 4 cross-functional business teams.
+- Built automated data validation scripts, successfully lowering data duplication rates by 30%.
+
+### Data Analytics Intern
+**Cognifyz Technologies** | *02/2026 – 03/2026* (Remote)
+- Conducted exploratory data analysis (EDA) on 5+ real-world datasets utilizing Python, Pandas, and Matplotlib.
+- Engineered 4 interactive analytical dashboards that decreased stakeholder review times by 50% and were adopted company-wide.
+
+## Projects
+
+### 1. HZ IT Company (Freelance)
+- **Description:** Business website demonstrating IT services, portfolio showcases, and client intake funnels.
+- **URL:** [https://hzitcompany.com](https://hzitcompany.com)
+- **Tech Stack:** React, Tailwind CSS, Vite.
+
+### 2. Kalika Restaurant (Freelance)
+- **Description:** Restaurant marketing site with online menu display, media gallery, and booking logic.
+- **URL:** [https://kalikaresturant.co.in](https://kalikaresturant.co.in)
+- **Tech Stack:** React, JavaScript, CSS.
+
+### 3. Hotel Khoai (Freelance)
+- **Description:** Full-featured hotel presentation and direct booking funnel showing rooms, amenities, and maps.
+- **URL:** [https://hotelkhoai.co.in](https://hotelkhoai.co.in)
+- **Tech Stack:** React, Tailwind CSS, Firebase.
+
+### 4. Mahamaya Enterprise (Freelance)
+- **Description:** E-commerce catalog platform for a hardware enterprise with search filters and inquiry triggers.
+- **URL:** [https://mahamayaenterprise.shop](https://mahamayaenterprise.shop)
+- **Tech Stack:** React, Node.js, Tailwind CSS.
+
+### 5. Luxury Auto (Freelance Showcase)
+- **Description:** Premium pre-owned auto dealership catalog platform targeting the UAE market with micro-interactions.
+- **URL:** [https://luxury-auto-tawny.vercel.app](https://luxury-auto-tawny.vercel.app)
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Framer Motion.
+
+### 6. Udaan India — HELLIOS (Hackathon)
+- **Description:** Predictive hospital emergency load intelligence dashboard using ML models to forecast ED admissions and staff allocation needs.
+- **GitHub:** [https://github.com/Surja2003/UdaanIndia](https://github.com/Surja2003/UdaanIndia)
+- **URL:** [https://udaan-india.vercel.app](https://udaan-india.vercel.app)
+- **Tech Stack:** React, TypeScript, FastAPI, Python, Tailwind CSS, Docker.
+
+### 7. Temple Crowd Management (Hackathon)
+- **Description:** Real-time computer vision queue density monitoring dashboard utilizing OpenCV pipelines for crowd risk assessment.
+- **GitHub:** [https://github.com/Surja2003/Temple-Crowd-Management](https://github.com/Surja2003/Temple-Crowd-Management)
+- **URL:** [https://temple-crowd-management.vercel.app](https://temple-crowd-management.vercel.app)
+- **Tech Stack:** Python, OpenCV, React, Flask.
+
+### 8. Summarify AI (Hackathon)
+- **Description:** NLP-powered document abstract generation application utilizing Transformer pipelines.
+- **GitHub:** [https://github.com/Surja2003/Summarify-AI](https://github.com/Surja2003/Summarify-AI)
+- **URL:** [https://summarify-ai-six.vercel.app](https://summarify-ai-six.vercel.app)
+- **Tech Stack:** Python, Flask, NLP, React.
+
+### 9. Investment Calculator (Personal)
+- **Description:** Financial SPA mapping compound interest models (SIP, Lumpsum, SWP) with interactive projections.
+- **GitHub:** [https://github.com/Surja2003/Investment-Calculator](https://github.com/Surja2003/Investment-Calculator)
+- **URL:** [https://surja2003.github.io/Investment-Calculator](https://surja2003.github.io/Investment-Calculator)
+- **Tech Stack:** React, TypeScript, Recharts.
+
+### 10. AstroKing (Personal)
+- **Description:** Astrological prediction interface hosting custom machine learning classifiers trained on astrological attributes.
+- **GitHub:** [https://github.com/Surja2003/AstroKing](https://github.com/Surja2003/AstroKing)
+- **Tech Stack:** Python, Scikit-learn, React, Flask.
+
+### 11. SpeedTest (Personal)
+- **Description:** Uncluttered, lightweight network throughput measurement utility.
+- **GitHub:** [https://github.com/Surja2003/SpeedTest](https://github.com/Surja2003/SpeedTest)
+- **Tech Stack:** JavaScript, React, Node.js.
+
+## Freelance Services & Pricing Structure
+- **Business Web Presence:** Starts at ₹9,999 (Landing page, CMS integrations, high-speed optimizations).
+- **Web & Mobile Applications:** Starts at ₹24,999 (Dynamic React/React Native, state management, full backends).
+- **Analytics Dashboards:** Starts at ₹15,999 (Custom ETL pipelines, interactive BI visuals, automated reporting).
